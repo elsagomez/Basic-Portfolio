@@ -1,0 +1,28 @@
+body{
+	background-color: white;
+}
+
+.header{
+	background-color: #4aaaa5;
+	text-align: center;
+	color: white;
+	size: 50px;
+	font-family:'Georgia', Times, Times New Roman, serif;
+	background-size: 80px;
+	float: left;
+
+}
+
+.menu{
+	color: gray;
+	size: 50px;
+	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	float: right;
+}
+li{
+	display: inline-block;
+}
+
+.wrapper{
+	clear: both;
+}
